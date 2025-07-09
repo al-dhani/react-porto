@@ -74,7 +74,7 @@ function App() {
               <img src={proyek.gambar} alt="Proyek Image" loading="lazy" />
               <div>
                 <h1 className="text-2xl font-bold my-4">{proyek.nama}</h1>
-                <p className="text-base/loose mb-4">{proyek.desk}</p>
+                <p className="text-base/loose mb-9">{proyek.desk}</p>
                 <div className="flex flex-wrap gap-2">
                   {proyek.tools.map((tool, index) => (
                     <p className="py-1 px-3 border border-zinc-500 bg-zinc-600 rounded-md font-semibold" key={index}>{tool}</p>
