@@ -25,22 +25,22 @@ function App() {
         <div className="xl:w-2/3 lg:w-3/4 w-full mx-auto p-7 bg-zinc-800 rounded-lg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
         <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md mb-10 sm:hidden" loading="lazy" />
           <p className="text-base/loose mb-10">
-            Hi, perkenalkan saya Diky Prayoga, seorang Full Stack Web Developer dan Designer untuk UI/UX Design maupun Product Digital, Saya percaya bahwa desain dan fungsionalitas harus berjalan beriringan, sehingga setiap proyek yang saya kembangkan tidak hanya terlihat menarik tetapi juga memberikan pengalaman pengguna yang optimal.
+            Halo, perkenalkan saya Alif Ramadhani, seorang siswa dari SMKN 46 Jakarta jurusan Rekayasa Perangkat Lunak. Saya memiliki ketertarikan dalam pengembangan website dan aplikasi, serta antusias dalam dunia desain, khususnya UI/UX. Bagi saya, tampilan yang menarik dan fungsionalitas yang baik harus berjalan seimbang agar dapat memberikan pengalaman pengguna yang optimal.
           </p>
           <div className="flex items-center justify-between">
             <img src={DataImage.HeroImage} alt="Image" className="w-12 rounded-md sm:block hidden" loading="lazy" />
             <div className="flex items-center gap-6">
               <div>
                 <h1 className="text-4xl mb-1">
-                  45 <span className="text-violet-500">+</span>
+                  8 <span className="text-violet-500">+</span>
                 </h1>
                 <p>Proyek Selesai</p>
               </div>
               <div>
-                <h1 className="text-4xl mb-1">
-                  4 <span className="text-violet-500">+</span>
+                <h1 className="text-4xl mb-1 text-center">
+                  2
                 </h1>
-                <p>Tahun Pengalaman</p>
+                <p>Tahun Pengalaman Belajar</p>
               </div>
             </div>
           </div>
