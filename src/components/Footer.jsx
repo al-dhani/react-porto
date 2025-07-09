@@ -14,8 +14,8 @@ const Footer = () => {
             <a href="https://instagram.com/al.dhni">
                 <i className="ri-instagram-fill ri-2x"></i>
             </a>
-            <a href="#">
-                <i className="ri-reddit-fill ri-2x"></i>
+            <a href="https://tiktok.com/@dhaanii10">
+                <i className="ri-tiktok-fill ri-2x"></i>
             </a>
             <a href="https://www.youtube.com/@aliframadhani4491">
                 <i className="ri-youtube-fill ri-2x"></i>
