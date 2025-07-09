@@ -157,7 +157,7 @@ export const listProyek = [
   {
     id: 4,
     gambar: Proyek4,
-    nama: "Website Course",
+    nama: "3D Character",
     desk: "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, laborum!",
     tools: ["Vite", "ReactJS", "Bootstrap", "AOS"],
     dad: "500",
